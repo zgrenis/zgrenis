@@ -7,8 +7,8 @@
 - 📫 How to reach me **zgr.enis@gmail.com**
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=eniszgr&show_icons=true&theme=dracula" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eniszgr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=zgrenis&show_icons=true&theme=dracula" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zgrenis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/> 
 </div>
 
 <div align="left">
